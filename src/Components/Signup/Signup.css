@@ -1,0 +1,17 @@
+.avatar{
+    margin : 5px auto;
+    padding:3px;
+}
+
+.reg_form{
+    margin:50px auto
+}
+
+.reg_form .form{
+    padding:20px
+}
+.reg_form .form_link{
+    text-decoration: none;
+    padding:8px;
+    color: #33691e
+}

@@ -1,0 +1,29 @@
+.empty_prod{
+    margin:100px 0px
+}
+
+.pagination{
+    display: flex;
+    justify-content: center;
+    margin:10px 0px
+}
+.pagination button.MuiPaginationItem-page{
+    background-color: orange;
+}
+.product .prod_card{
+    /* width:300px; */
+    margin-top: 20px;
+    border-radius: 10%;
+}
+.product .card_btn{
+    display:'flex';
+    gap:10px;
+    margin:auto
+}
+.product .card_content{
+    background-color: aquamarine;
+}
+.product .card_action{
+    background-color: sandybrown;
+}
+

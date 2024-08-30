@@ -1,0 +1,12 @@
+
+.profile{
+    margin: 95px auto;
+    padding:15px
+}
+
+.profile_card .image{
+    margin:auto;
+    height:120px;
+    width:120px;
+    border-radius: 50%;
+}

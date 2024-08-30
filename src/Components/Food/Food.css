@@ -1,0 +1,27 @@
+.promotional-card {
+    position: relative;
+    height: 330px; 
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 15px;
+    overflow: hidden;
+    text-align: left;
+    box-sizing: border-box;
+}
+
+.promotional-product {
+    font-weight: bold;
+}
+
+.promotional-image {
+    position: absolute;
+    bottom: 40px;
+    right: 30px;
+    width: 220px; 
+    height: 220px; 
+    object-fit: contain;
+    border-radius: 5px;
+}
+ 

@@ -1,0 +1,30 @@
+.about{
+    margin: 40px 0px;
+}
+.about .card{
+    background-color: #ffc107;
+}
+.image_card{
+    margin:50px 0px
+}
+.image_card .image{
+    height:250px
+}
+.image_card .image img{
+    height:250px;
+
+}
+.image_card .content_card{
+    background-color: #ff9e80;
+    height:250px;
+}
+/* .image_card .content_card h5{
+    padding: 20px;
+} */
+
+/* .image_card .content_card .text{
+    align-items: center;
+    font-weight: 500;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} */

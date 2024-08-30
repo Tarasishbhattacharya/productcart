@@ -1,0 +1,17 @@
+.login_form{
+    margin:100px auto;
+    /* padding:15px */
+}
+
+.login_form .form{
+    padding:20px
+}
+
+.login_form .form_link{
+    text-decoration: none;
+    padding:8px;
+    color: #33691e
+
+
+
+}
